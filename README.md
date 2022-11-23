@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arpit843
-- 👀 I’m interested in ...programming, fitness. 
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...python,java
+- 👀 I’m interested in ...python and C. 
+- 🌱 I’m currently learning ...C language
+- 💞️ I’m looking to collaborate on ...python,C
 - 📫 How to reach me ... mail me at arpitshakkerwal@gmail.com
 
 <!---
